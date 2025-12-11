@@ -71,11 +71,11 @@
 
 ### 📌 Top Projects
 <div align="center">
-  <a href="https://github.com/Jacooooooob/Jacooooooob">
+  <a href="https://github.com/Jacooooooob/GLoCIM_SIMPLE">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=Jacooooooob&theme=radical&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=Jacooooooob&theme=default&hide_border=true">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=Jacooooooob&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=GLoCIM_SIMPLE&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=GLoCIM_SIMPLE&theme=default&hide_border=true">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=GLoCIM_SIMPLE&theme=radical&hide_border=true" />
     </picture>
   </a>
   <a href="https://github.com/Jacooooooob/CampusNavigator">

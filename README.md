@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jacob+Zhu!+%F0%9F%91%8B;Developer;Researcher;Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jacob+Zhu!+%F0%9F%91%8B;Developer;Researcher;Student" alt="Typing SVG" />
 
 <br/>
 

@@ -17,8 +17,8 @@ I'm a developer passionate about coding and technology. Welcome to my GitHub!
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacooooooob&show_icons=true&theme=radical" alt="Jacob's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacooooooob&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jacooooooob&show_icons=true&theme=radical" alt="Jacob's GitHub stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacooooooob&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </div>
 
 <br/>

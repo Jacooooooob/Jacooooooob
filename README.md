@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jacob+Zhu!+%F0%9F%91%8B;Developer;Researcher;Student" alt="Typing SVG" />
+<img src="https://typing-svg.vercel.app?font=Fira+Code&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Jacob+Zhu!+%F0%9F%91%8B;Developer;Researcher;Student" alt="Typing SVG" />
 
 <br/>
 
@@ -19,14 +19,14 @@
 <a href="https://github.com/Jacooooooob">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/placeholder">
+<a href="https://www.linkedin.com/in/子阳-朱-75334a305">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,java,cpp,pytorch,mysql,git,docker,latex" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,pytorch,mysql,git,docker,latex,flask,html,css" />
 
 <br/><br/>
 
@@ -40,12 +40,31 @@
 <br/><br/>
 
 ### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jacooooooob&show_icons=true&theme=radical&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Jacooooooob&show_icons=true&theme=default&hide_border=true">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jacooooooob&show_icons=true&theme=radical&hide_border=true" alt="Jacob's GitHub stats" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacooooooob&layout=compact&theme=radical&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacooooooob&layout=compact&theme=default&hide_border=true">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacooooooob&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </picture>
+    </td>
+  </tr>
+</table>
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jacooooooob&show_icons=true&theme=radical" alt="Jacob's GitHub stats" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jacooooooob&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jacooooooob&theme=radical" alt="GitHub Streak" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.vercel.app?user=Jacooooooob&theme=radical&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.vercel.app?user=Jacooooooob&theme=default&hide_border=true">
+    <img src="https://streak-stats.vercel.app?user=Jacooooooob&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <br/>
@@ -53,18 +72,24 @@
 ### 📌 Top Projects
 <div align="center">
   <a href="https://github.com/Jacooooooob/Jacooooooob">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=Jacooooooob&theme=radical" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=Jacooooooob&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=Jacooooooob&theme=default&hide_border=true">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=Jacooooooob&theme=radical&hide_border=true" />
+    </picture>
   </a>
-  <!-- Uncomment below to add more pinned repos
-  <a href="https://github.com/Jacooooooob/YOUR-REPO-NAME">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=YOUR-REPO-NAME&theme=radical" />
+  <a href="https://github.com/Jacooooooob/CampusNavigator">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=CampusNavigator&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=CampusNavigator&theme=default&hide_border=true">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jacooooooob&repo=CampusNavigator&theme=radical&hide_border=true" />
+    </picture>
   </a>
-  -->
 </div>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jacooooooob&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Jacooooooob&label=Profile%20Views&color=FE428E&style=flat" alt="Profile Views" />
 
 <br/>
 

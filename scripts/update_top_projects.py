@@ -10,12 +10,12 @@ MARKER_END = "<!-- TOP_PROJECTS_END -->"
 
 # Configuration
 # MODE can be "AUTO" or "STATIC"
-MODE = "AUTO" 
+MODE = "STATIC" 
 
 # List of repository names for STATIC mode
 STATIC_PROJECTS = [
-    "University-Projects",
-    "AStar_Rounting"
+    "GLoCIM-Simple",
+    "link-prediction"
 ]
 
 def get_top_repos():

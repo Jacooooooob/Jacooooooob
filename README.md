@@ -72,18 +72,18 @@
 ### 📌 Top Projects
 <!-- TOP_PROJECTS_START -->
 <div align="center">
-  <a href="https://github.com/JacobZhuu/RAGNavigator">
+  <a href="https://github.com/JacobZhuu/GLoCIM-Simple">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=RAGNavigator&theme=radical&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=RAGNavigator&theme=default&hide_border=true">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=RAGNavigator&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=GLoCIM-Simple&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=GLoCIM-Simple&theme=default&hide_border=true">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=GLoCIM-Simple&theme=radical&hide_border=true" />
     </picture>
   </a>
-  <a href="https://github.com/JacobZhuu/Front-Disass">
+  <a href="https://github.com/JacobZhuu/link-prediction">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=Front-Disass&theme=radical&hide_border=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=Front-Disass&theme=default&hide_border=true">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=Front-Disass&theme=radical&hide_border=true" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=link-prediction&theme=radical&hide_border=true">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=link-prediction&theme=default&hide_border=true">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JacobZhuu&repo=link-prediction&theme=radical&hide_border=true" />
     </picture>
   </a>
 </div>

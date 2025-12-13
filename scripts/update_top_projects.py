@@ -8,7 +8,22 @@ README_PATH = "README.md"
 MARKER_START = "<!-- TOP_PROJECTS_START -->"
 MARKER_END = "<!-- TOP_PROJECTS_END -->"
 
+# Configuration
+# MODE can be "AUTO" or "STATIC"
+MODE = "AUTO" 
+
+# List of repository names for STATIC mode
+STATIC_PROJECTS = [
+    "University-Projects",
+    "AStar_Rounting"
+]
+
 def get_top_repos():
+    if MODE == "STATIC":
+        print(f"Running in STATIC mode. Selected projects: {STATIC_PROJECTS}")
+        return [{"name": name} for name in STATIC_PROJECTS]
+
+    print("Running in AUTO mode.")
     url = f"https://api.github.com/users/{USERNAME}/repos?type=owner&sort=stars&direction=desc&per_page=100"
     
     try:
@@ -16,7 +31,7 @@ def get_top_repos():
             data = response.read()
             repos = json.loads(data)
             
-            # Filter for public repos, exclude profile repo, and updated in 2025+
+            # Filter for public repos
             public_repos = [
                 r for r in repos 
                 if not r.get("private") 
@@ -25,7 +40,6 @@ def get_top_repos():
             ]
             
             # Sort by stars (desc) then pushed_at (desc)
-            # Use get() with default 0/"" to avoid errors if keys missing
             public_repos.sort(key=lambda x: (x.get("stargazers_count", 0), x.get("pushed_at", "")), reverse=True)
             
             return public_repos[:2]
@@ -50,7 +64,7 @@ def generate_html(repos):
 def update_readme():
     repos = get_top_repos()
     if not repos:
-        print("No repos found using API.")
+        print("No repos found.")
         return
 
     new_content = generate_html(repos)

@@ -16,10 +16,12 @@ def get_top_repos():
             data = response.read()
             repos = json.loads(data)
             
-            # Filter for public repos and exclude profile repo
+            # Filter for public repos, exclude profile repo, and updated in 2025+
             public_repos = [
                 r for r in repos 
-                if not r.get("private") and r["name"].lower() != USERNAME.lower()
+                if not r.get("private") 
+                and r["name"].lower() != USERNAME.lower()
+                and r.get("updated_at", "") >= "2025-01-01"
             ]
             
             # Sort by stars (desc) then updated_at (desc)

@@ -21,12 +21,12 @@ def get_top_repos():
                 r for r in repos 
                 if not r.get("private") 
                 and r["name"].lower() != USERNAME.lower()
-                and r.get("updated_at", "") >= "2025-01-01"
+                and r.get("pushed_at", "") >= "2025-01-01"
             ]
             
-            # Sort by stars (desc) then updated_at (desc)
+            # Sort by stars (desc) then pushed_at (desc)
             # Use get() with default 0/"" to avoid errors if keys missing
-            public_repos.sort(key=lambda x: (x.get("stargazers_count", 0), x.get("updated_at", "")), reverse=True)
+            public_repos.sort(key=lambda x: (x.get("stargazers_count", 0), x.get("pushed_at", "")), reverse=True)
             
             return public_repos[:2]
     except Exception as e:
